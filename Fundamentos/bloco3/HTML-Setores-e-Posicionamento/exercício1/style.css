@@ -1,0 +1,29 @@
+div {
+    display: inline-block;
+}
+
+.caixa1 {
+    height: 50px;
+    width: 50px;
+}
+
+.caixa2 {
+    height: 50px;
+    width: 50px;
+    padding: 20px;
+}
+
+.caixa3 {
+    height: 50px;
+    width: 50px;
+    padding: 20px;
+    margin: 30px;
+}
+
+.caixa4 {
+    height: 50px;
+    width: 50px;
+    padding: 20px;
+    margin: 30px;
+    border: 5px solid black;
+}

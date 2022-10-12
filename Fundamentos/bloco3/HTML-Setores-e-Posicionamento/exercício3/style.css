@@ -1,0 +1,19 @@
+.order-list {
+    text-decoration: none;
+}
+
+h1, p {
+    text-align: center;
+}
+
+ol:hover {
+    background-color: yellow;
+}
+
+ol:active {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ol, li {
+    list-style: none
+}
